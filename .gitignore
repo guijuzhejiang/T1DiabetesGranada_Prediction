@@ -52,6 +52,7 @@ coverage.xml
 cover/
 *.npy
 *.csv
+data/
 
 # Translations
 *.mo
