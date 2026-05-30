@@ -1,0 +1,11 @@
+{
+    "RAW_DATA_DIR": "./data/",
+    "GLUCOSE_FILE": "./data/Glucose_measurements.csv",
+    "PATIENT_INFO_FILE": "./data/Patient_info.csv",
+    "PROCESSED_DATA_DIR": "./data/processed/",
+    "MODEL_DIR": "./model/",
+    "HYPERPARAMETER_TUNING_DIR": "./hyperparameter_tuning/",
+    "MLFLOW_TRACKING_URI": "./mlruns/",
+    "REPORTS_DIR": "./reports/",
+    "SHAP_REPORTS_DIR": "./reports/shap/"
+}

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zzg/workspace/pycharm/brist1d_blood_glucose_prediction_competition/T1DiabetesGranada_Prediction/mlruns/308809410466083925/ecc40000411a4a93828a8406efcc3c6f/artifacts
+end_time: 1778898134859
+entry_point_name: ''
+experiment_id: '308809410466083925'
+lifecycle_stage: active
+run_id: ecc40000411a4a93828a8406efcc3c6f
+run_name: trial_29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778884181825
+status: 3
+tags: []
+user_id: zzg
